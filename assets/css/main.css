@@ -161,9 +161,9 @@ input, select, textarea {
 		-ms-transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		transition: border-color 0.35s ease-in-out, color 0.35s ease-in-out;
 		color: #35b88f;
-		text-shadow: 0 0 0.5px rgba(53, 184, 143, 0.25);
+		text-shadow: 0 0 0.5px rgba(131, 4, 4, 0.25);
 		text-decoration: none;
-		border-bottom: dotted 1px rgba(53, 184, 143, 0.5);
+		border-bottom: dotted 1px rgba(153, 4, 4, 0.5);
 	}
 
 		a:hover {
@@ -1764,7 +1764,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #45c89f;
+			background: #52e4b6;
 		}
 
 		input[type="button"].style2,
@@ -1851,7 +1851,7 @@ input, select, textarea {
 				top: 0;
 				width: 50%;
 				height: 100%;
-				background: #152E33;
+				background: #320608;
 				overflow: hidden;
 			}
 
@@ -2096,7 +2096,7 @@ input, select, textarea {
 	}
 
 		#banner .button {
-			color: #35b882;
+			color: #000000;
 			text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 		}
 
@@ -2352,7 +2352,7 @@ input, select, textarea {
 
 			body {
 				background-color: #203936;
-				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
+				background-image: url("images/overlay.png"), url("../../images/new-alt.png");
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
